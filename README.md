@@ -17,7 +17,7 @@ During the implimentation of projects I faced lot of challenges in Bootstrap cla
 1. Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/parthyakadam/Bootcamp-Website.git
 ```
 2. Install Live Server extension in VSCode
 
